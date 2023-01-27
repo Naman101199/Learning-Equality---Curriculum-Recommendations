@@ -14,3 +14,9 @@ Competition host Learning Equality is committed to enabling every person in the 
 
 You have the opportunity to use your skills in machine learning to support educators and students around the world in accessing aligned learning materials that are relevant for their particular context. Better curriculum alignment processes are especially impactful during the onset of new emergencies or crises, where rapid support is needed, such as for refugee learners, and during school closures as took place during COVID-19.
 
+
+# Setup - 
+
+1. Run os.environ['aws_UserName'] ={yourName} in your python console.
+2. Save {yourName}_accessKeys.csv on your desktop.
+3. Run setEnvVariables.py
