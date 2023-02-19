@@ -17,6 +17,10 @@ You have the opportunity to use your skills in machine learning to support educa
 
 # Setup - 
 
-1. Run os.environ['aws_UserName'] ={yourName} in your python console.
-2. Save {yourName}_accessKeys.csv on your desktop.
-3. Run setEnvVariables.py
+	1.	vim ~/.bash_profile
+	2.	press i to go into insert mode
+	3.	enter export aws_UserName="yourName"
+	4.	press esc, then type :wq
+	1.	Run os.environ['aws_UserName'] ={yourName} in your python console.
+	2.	Save {yourName}_accessKeys.csv on your desktop.
+	3.	Run setEnvVariables.py
